@@ -8,6 +8,6 @@ You have to use PHP dictionary `$_GET["playlist"]` to read the value of  `playli
 
 ## Student Details
 
-- **Student ID**: your studentID
-- **Student Name**: your name
-- **Section Number**: your course section number
+- **Student ID**: U1610257
+- **Student Name**: Diyorkhon Mukhamedkhanov
+- **Section Number**: 002
